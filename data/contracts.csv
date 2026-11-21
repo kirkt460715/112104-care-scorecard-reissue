@@ -1,0 +1,7 @@
+contract,version,street,partner,from,to,unit,required,recognition,target
+C01,V1,槐北,A,2026-06-01,2026-09-01,visit,bath|stairs,either,4
+C01,V2,槐北,A,2026-09-01,2027-01-01,bundle,bath|stairs,all,3
+C02,V1,高湾,B,2026-06-01,2027-01-01,task,escort,each,3
+C03,V1,槐北,C,2026-07-01,2026-09-15,household,clean,each,2
+C03,V2,槐北,C,2026-09-15,2027-01-01,household,clean|bath,each,4
+C04,V1,高湾,A,2026-06-01,2027-01-01,bundle,bath|stairs,all,3

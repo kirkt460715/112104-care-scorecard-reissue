@@ -1,0 +1,6 @@
+route,recipient,street,contracts,view,partials
+A1,区采购,*,*,contract_progress,yes
+A2,槐北街道,槐北,C01|C03,street_activity,yes
+A3,联办A组,高湾,C04,contract_progress,no
+A4,联办A组,槐北,C01,contract_progress,no
+A5,协作公示室,*,C02|C03,metric_bridge,yes
